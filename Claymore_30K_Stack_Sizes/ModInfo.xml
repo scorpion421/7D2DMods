@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="30K Stack Sizes" />
+		<Description value="I know: We can bundle now. I don't care. We can collect thousands of stones and ores, but other things we can't? Reason? Reason = Pimps and balancing." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
