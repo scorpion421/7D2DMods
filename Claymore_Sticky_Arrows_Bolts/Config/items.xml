@@ -1,0 +1,36 @@
+<Claymore>
+<!-- If there is a own mesh for sticking flaming arrows and bolts: Why not use it? -->
+<append xpath="/items/item[@name='ammoArrowFlaming']">
+<property name="IsSticky" value="true"/>
+</append>
+<append xpath="/items/item[@name='ammoCrossbowBoltFlaming']">
+<property name="IsSticky" value="true"/>
+</append>
+
+<!-- 100% stick chance for flaming arrows and bolts. The Pimps left this to zero. Why? -->
+<set xpath="/items/item[@name='ammoArrowFlaming']/effect_group[@name='ammoArrowFlaming']/passive_effect[@name='ProjectileStickChance']/@value">100</set>
+<set xpath="/items/item[@name='ammoCrossbowBoltFlaming']/effect_group[@name='ammoCrossbowBoltFlaming']/passive_effect[@name='ProjectileStickChance']/@value">100</set>
+
+<!-- 100% Stick chance for all arrows and bolts -->
+<append xpath="/items/item[@name='ammoArrowStone']/effect_group[@name='ammoArrowStone']">
+<passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/>
+</append>
+<append xpath="/items/item[@name='ammoArrowIron']/effect_group[@name='ammoArrowIron']">
+<passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/>
+</append>
+<append xpath="/items/item[@name='ammoArrowSteelAP']/effect_group[@name='ammoArrowSteelAP']">
+<passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/>
+</append>
+<append xpath="/items/item[@name='ammoCrossbowBoltStone']/effect_group[@name='ammoCrossbowBoltStone']">
+<passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/>
+</append>
+<append xpath="/items/item[@name='ammoCrossbowBoltIron']/effect_group[@name='ammoCrossbowBoltIron']">
+<passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/>
+</append>
+<append xpath="/items/item[@name='ammoCrossbowBoltSteelAP']/effect_group[@name='ammoCrossbowBoltSteelAP']">
+<passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/>
+</append>
+</Claymore>
+
+<!-- Please note: Exploding arrows and bolts have no sticky chance, since the are exploding on hit. -->
+<!-- <passive_effect name="ProjectileStickChance" operation="perc_set" value="100"/> This is the line for sticky things -->

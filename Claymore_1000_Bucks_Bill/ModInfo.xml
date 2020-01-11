@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="1000 Bucks Bill" />
+		<Description value="Converts 1000 coins to one 1k bill and back." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

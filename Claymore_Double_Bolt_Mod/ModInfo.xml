@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Crosbow Double Bolt" />
+		<Description value="Enables you to fire two bolts at the same time." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

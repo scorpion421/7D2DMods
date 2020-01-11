@@ -1,0 +1,4 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+modDoubleBolt,item_modifiers,mod,New,Double Bolt Mod,,,,,
+modDoubleBoltDesc,item_modifiers,mod,New,"Enables you to load two bolts into your crossbow at the same time.",,,,,
+modDoubleBoltSchematic,item_modifiers,mod,New,Double Bolt Schematic,,,,,

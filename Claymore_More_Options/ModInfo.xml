@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="More Options" />
+		<Description value="Gives you more options if you join or create a game" />
+		<Author value="Claymore" />
+		<Version value="1.0.1" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,17 @@
+<Claymore>
+<!-- this should cover all full jars, we want to get emtpied by scrapping -->
+<set xpath="/items/item[@name='drinkJarGoldenRodTea']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarPureMineralWater']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarBeer']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarCoffee']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarRedTea']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkYuccaJuiceSmoothie']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarYuccaJuice']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarBoiledWater']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarRiverWater']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<set xpath="/items/item[@name='drinkJarGrainAlcohol']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<!-- we need to give the result - the empty jar - the same material. so this is sadly also the reason, why we can't scrap or smelt it anymore... -->
+<set xpath="/items/item[@name='drinkJarEmpty']/property[@name='Material']/@value">MdrinkJarEmpty</set>
+<!-- setting the time to a low value, grants a faster scrapping time. but this also means, that the item is crafted faster than before -->
+<set xpath="/items/item[@name='drinkJarEmpty']/property[@name='CraftingIngredientTime']/@value">1</set>
+</Claymore>

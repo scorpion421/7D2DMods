@@ -1,0 +1,6 @@
+<Claymore>
+<!-- we need a new forge catergory to get our item from scrapping -->
+<append xpath="/recipes">
+<recipe name="drinkJarEmpty" count="1" craft_time="1" tooltip="ttScrapMetalBrass" always_unlocked="true" tags="salvageScrap"> <wildcard_forge_category /> </recipe>
+</append>
+</Claymore>

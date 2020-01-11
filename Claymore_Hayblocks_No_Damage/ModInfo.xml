@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Hayblocks No Damage" />
+		<Description value="Fixed elevators in A18. OK. No problem (I LIED! I hate you for this fix!). Take away the chance to jump down without damage? Now things get damn serious. Fixed." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

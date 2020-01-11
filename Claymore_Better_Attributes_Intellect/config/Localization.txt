@@ -1,0 +1,11 @@
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+attIntellectRank1LongDesc,,progression,Attribute,newKey,"You are as dumb as box of rocks but you still do 200% head shot damage and have a 5% chance to dismember with stun batons and junk turrets.",,,,,
+attIntellectRank2LongDesc,,progression,Attribute,newKey,"You aren't the brightest color in the box, but you occasionally hit the nail on the head. Deal 210% head shot damage and have a 10% chance to dismember with stun batons and junk turrets.",,,,,
+attIntellectRank3LongDesc,,progression,Attribute,newKey,"Even dimwits have a bright idea once in a while. Deal 220% head shot damage and have a 15% chance to dismember with stun batons and junk turrets.",,,,,
+attIntellectRank4LongDesc,,progression,Attribute,newKey,"You don't like to learn new stuff but you will if you have to. Deal 230% head shot damage and have a 20% chance to dismember with stun batons and junk turrets.",,,,,
+attIntellectRank5LongDesc,,progression,Attribute,newKey,"Being average is better than being below average. Deal 240% head shot damage and have a 25% chance to dismember with stun batons and junk turrets.",,,,,
+attIntellectRank6LongDesc,,progression,Attribute,newKey,"You are now getting pretty smart. Deal 250% head shot damage and have a 30% chance to dismember with stun batons and junk turrets.\n Additionally, you get 10% more XP.",,,,,
+attIntellectRank7LongDesc,,progression,Attribute,newKey,"Your peers consider you brilliant. Deal 260% head shot damage and have a 35% chance to dismember with stun batons and junk turrets.\n Additionally, you get 20% more XP.",,,,,
+attIntellectRank8LongDesc,,progression,Attribute,newKey,"Your intellect is quite impressive. Deal 270% head shot damage and have a 40% chance to dismember with stun batons and junk turrets.\n Additionally, you get 30% more XP.",,,,,
+attIntellectRank9LongDesc,,progression,Attribute,newKey,"You are now a true genius. Deal 285% head shot damage and have a 45% chance to dismember with stun batons and junk turrets.\n Additionally, you get 40% more XP.",,,,,
+attIntellectRank10LongDesc,,progression,Attribute,newKey,"You are a mastermind of intellect. Deal 300% head shot damage and have a 50% chance to dismember with stun batons and junk turrets.\n Additionally, you get 50% more XP.",,,,,

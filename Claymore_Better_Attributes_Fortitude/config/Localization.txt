@@ -1,0 +1,11 @@
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+attFortitudeRank01LongDesc,,progression,Attribute,newKey,"You aren't very durable or healthy but at least you are alive. Deal 200% head shot damage and have a 5% chance to dismember with fists and machine guns.",,,,,
+attFortitudeRank02LongDesc,,progression,Attribute,newKey,"You feel a little better than you used to. Deal 210% head shot damage and have a 10% chance to dismember with fists, and machine guns.\nAlso adds 20% to your max. health.",,,,,
+attFortitudeRank03LongDesc,,progression,Attribute,newKey,"You continue to defy gravity and keep standing. Deal 220% head shot damage and have a 15% chance to dismember with fists and machine guns.\nAlso adds 30% to your max. health.",,,,,
+attFortitudeRank04LongDesc,,progression,Attribute,newKey,"You are starting to feel like normal people. Deal 230% head shot damage and have a 20% chance to dismember with fists, and machine guns.\nAlso adds 40% to your max. health.",,,,,
+attFortitudeRank05LongDesc,,progression,Attribute,newKey,"You are in good health. Deal 240% head shot damage and have a 25% chance to dismember with fists and machine guns.\nAlso adds 50% to your max. health.",,,,,
+attFortitudeRank06LongDesc,,progression,Attribute,newKey,"You are very healthy. Deal 250% head shot damage and have a 30% chance to dismember with fists and machine guns.\nAlso adds 60% to your max. health.",,,,,
+attFortitudeRank07LongDesc,,progression,Attribute,newKey,"You have vigorous health. Deal 260% head shot damage and have a 35% chance to dismember with fists and machine guns.\nAlso adds 70% to your max. health.",,,,,
+attFortitudeRank08LongDesc,,progression,Attribute,newKey,"You are as resilient as they come. Deal 270% head shot damage and have a 40% chance to dismember with fists and machine guns.\nAlso adds 80% to your max. health.",,,,,
+attFortitudeRank09LongDesc,,progression,Attribute,newKey,"You have an amazing constitution. Deal 285% head shot damage and have a 45% chance to dismember with fists and machine guns.\nAlso adds 90% to your max. health.",,,,,
+attFortitudeRank10LongDesc,,progression,Attribute,newKey,"Your have exuberant fortitude and can put a beat down on a tornado. Deal 300% head shot damage and have a 50% chance to dismember with fists and machine guns.\nAlso adds 100% to your max. health.",,,,,

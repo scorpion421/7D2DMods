@@ -1,0 +1,8 @@
+<Claymore>
+<append xpath="/lootcontainers/lootgroup[@name='schematicsModsRare']">
+<item name="modDoubleBoltSchematic"/>
+</append>
+<append xpath="/lootcontainers/lootgroup[@name='modGunMeleeT3']">
+<item name="modDoubleBolt" prob=".25"/>
+</append>
+</Claymore>

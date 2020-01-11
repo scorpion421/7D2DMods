@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Elemental Bullets" />
+		<Description value="Ads mods for elemental bullets, like burning and electrical." />
+		<Author value="Claymore" />
+		<Version value="1.1.1" />
+	</ModInfo>
+</xml>

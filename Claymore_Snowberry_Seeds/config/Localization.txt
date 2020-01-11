@@ -1,0 +1,6 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+seedSnowBerry,blocks,Farming,New,Snowberry (Seed),,,,,
+seedSnowBerryDesc,blocks,Farming,KgNone,Plant snowberry seeds in fertile dirt to grow snowberry plants.,,,,,
+plantedSnowberry2Player,blocks,Farming,New,Snowberry (Growing),,,,,
+plantedSnowberry3Player,blocks,Farming,New,Snowberry Plant,,,,,
+seedSnowBerrySchematic,blocks,Farming,New,Snowberry (Seed) Recipe,,,,,

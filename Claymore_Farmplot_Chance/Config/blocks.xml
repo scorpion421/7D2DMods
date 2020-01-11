@@ -1,0 +1,7 @@
+<MickyFoley>
+<remove xpath="/blocks/block[@name='farmPlotBlock']/drop[@event='Harvest'][@name='resourceClayLump']"/>
+<remove xpath="/blocks/block[@name='farmPlotBlock']/drop[@event='Harvest'][@name='resourcePotassiumNitratePowder']"/>
+<append xpath="/blocks/block[@name='farmPlotBlock']">
+<drop event="Destroy" name="farmPlotBlockPlayer" prob="0.35" count="1"/>
+</append>
+</MickyFoley>

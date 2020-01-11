@@ -1,0 +1,16 @@
+<Claymore>
+<append xpath="/recipes">
+<recipe name="modGunShocked" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="100"/>
+	<ingredient name="resourceScrapPolymers" count="50"/>
+	<ingredient name="resourceDuctTape" count="50"/>
+	<ingredient name="electricfencepost" count="10"/>
+</recipe>
+<recipe name="modGunBurning" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="100"/>
+	<ingredient name="resourceScrapPolymers" count="50"/>
+	<ingredient name="resourceDuctTape" count="50"/>
+	<ingredient name="forge" count="10"/>
+</recipe>
+</append>
+</Claymore>

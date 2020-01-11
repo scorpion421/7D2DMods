@@ -1,0 +1,12 @@
+<Claymore>
+// Agility Revamped
+<append xpath="/progression/attributes/attribute[@name='attAgility']">
+<effect_group>
+<requirement tags="attAgility"/>
+<passive_effect name="StaminaMax" operation="perc_add" level="2,10" value="0.2,1"/>
+<passive_effect name="RunSpeed" operation="perc_add" level="2,10" value="0.1,0.5"/>
+<passive_effect name="WalkSpeed" operation="perc_add" level="2,10" value="0.1,0.5"/>
+<passive_effect name="CrouchSpeed" operation="perc_add" level="2,10" value="0.1,0.5"/>
+</effect_group>
+</append>
+</Claymore>

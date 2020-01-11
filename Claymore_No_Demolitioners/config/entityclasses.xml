@@ -1,0 +1,3 @@
+<Claymore>
+<remove xpath="/entity_classes/entity_class[@name='zombieDemolition']"/>
+</Claymore>

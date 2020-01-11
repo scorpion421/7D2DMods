@@ -1,0 +1,30 @@
+<Claymore>
+<append xpath="/blocks">
+<block name="seedSnowBerry">
+	<property name="Extends" value="cropsGrowingMaster" param1="CustomIcon"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="UnlockedBy" value="perkLivingOffTheLand,seedSnowBerrySchematic"/>
+	<property name="Recipes_to_learn" value="seedSnowBerry,seedSnowBerrySchematic"/>
+	<property name="Shape" value="ModelEntity"/>
+	<property name="Model" value="Entities/Plants/blueberry_plant_sproutPrefab"/>
+	<property name="PlantGrowing.Next" value="plantedSnowberry2Player"/>
+	<property name="Group" value="Food/Cooking"/>
+	<drop event="Destroy" name="seedSnowBerry" count="1"/>
+</block>
+<block name="plantedSnowberry2Player">
+	<property name="Extends" value="cropsGrowingMaster"/>
+	<property name="CreativeMode" value="None"/>
+	<property name="CustomIcon" value="plantedSnowberry3Harvest"/>
+	<property name="Texture" value="369"/>
+	<property name="PlantGrowing.Next" value="plantedSnowberry3Player"/>
+	<drop event="Destroy" name="seedSnowBerry" count="1"/>
+</block>
+<block name="plantedSnowberry3Player">
+	<property name="Extends" value="plantedSnowberry3Harvest"/>
+	<property name="CustomIcon" value="plantedSnowberry1"/>
+	<property name="CreativeMode" value="None"/>
+	<drop event="Harvest" name="resourceCropSnowberryPlant" count="1" tag="cropHarvest"/>
+	<property name="DowngradeBlock" value="seedSnowBerry"/>
+</block>
+</append>
+</Claymore>

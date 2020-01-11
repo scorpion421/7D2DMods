@@ -1,0 +1,7 @@
+<Claymore>
+<append xpath="/recipes">
+<recipe name="seedSnowBerry" count="1" craft_time="1" tags="learnable">
+	<ingredient name="resourceCropSnowberryPlant" count="5"/>
+</recipe>
+</append>
+</Claymore>

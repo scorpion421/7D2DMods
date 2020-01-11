@@ -1,0 +1,3 @@
+<Claymore>
+<set xpath="/entitygroups/entitygroup/entity[@name='zombieDemolition']/@name">animalBossGrace</set>
+</Claymore>

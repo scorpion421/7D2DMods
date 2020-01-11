@@ -1,0 +1,7 @@
+<Claymore>
+<append xpath="/recipes">
+<recipe name="resourceScrapPolymers" count="1" craft_area="chemistryStation" tags="chemStationCrafting">
+	<ingredient name="ammoGasCan" count="50"/>
+</recipe>
+</append>
+</Claymore>

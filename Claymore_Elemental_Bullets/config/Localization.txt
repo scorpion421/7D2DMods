@@ -1,0 +1,7 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+modGunShocked,item_modifiers,mod,New,Shocking Mod,,,,,
+modGunShockedDesc,item_modifiers,mod,New,"Electricity is dangerous. How dangerous you may ask? Test it on your poor test subjects.",,,,,
+modGunBurning,item_modifiers,mod,New,Burning Mod,,,,,
+modGunBurningDesc,item_modifiers,mod,New,"Fire is dangerous. How dangerous you may ask? Test it on your poor test subjects.",,,,,
+modGunShockedSchematic,item_modifiers,mod,New,Shocking Mod Schematic,,,,,
+modGunBurningSchematic,item_modifiers,mod,New,Burning Mod Schematic,,,,,

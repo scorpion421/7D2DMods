@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Spill Full Jars" />
+		<Description value="Simply spilling full jars to empty jars by scrapping them." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

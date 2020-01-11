@@ -1,0 +1,15 @@
+<Claymore>
+<append xpath="/item_modifiers">
+	<item_modifier name="modDoubleBolt" installable_tags="crossbow" modifier_tags="doubleShot" type="attachment">
+		<property name="UnlockedBy" value="modDoubleBoltSchematic"/>
+		<property name="CustomIcon" value="modDoubleBolt"/>
+		<property name="Stacknumber" value="1"/> <property name="Group" value="Mods"/>
+		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+		<effect_group tiered="false">
+			<passive_effect name="MagazineSize" operation="base_set" value="2"/>	
+			<passive_effect name="BurstRoundCount" operation="base_set" value="2"/>
+		</effect_group>
+		<property name="PickupJournalEntry" value="augmentGunsTip"/>
+	</item_modifier>
+</append>
+</Claymore>

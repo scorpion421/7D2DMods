@@ -1,0 +1,4 @@
+<Claymore>
+<set xpath="/entity_classes/entity_class[@name='zombieDemolition']/property[@name='ExplodeDelay']/@value">60</set>
+<set xpath="/entity_classes/entity_class[@name='zombieDemolition']/property[@name='StompsSpikes']/@value">false</set>
+</Claymore>

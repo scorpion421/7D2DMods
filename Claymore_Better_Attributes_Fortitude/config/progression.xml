@@ -1,0 +1,9 @@
+<Claymore>
+// Fortitude Revamped
+<append xpath="/progression/attributes/attribute[@name='attFortitude']">
+<effect_group>
+<requirement tags="attFortitude"/>
+<passive_effect name="HealthMax" operation="perc_add" level="2,10" value="0.2,1"/>
+</effect_group>
+</append>
+</Claymore>

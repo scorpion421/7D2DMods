@@ -1,0 +1,3 @@
+<Claymore>
+<set xpath="/blocks/block[@name='hayBaleBlock']/property[@name='FallDamage']/@value">0</set>
+</Claymore>

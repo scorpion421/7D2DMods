@@ -1,0 +1,9 @@
+<Claymore>
+// Agility Revamped
+<append xpath="/progression/attributes/attribute[@name='attIntellect']">
+<effect_group>
+<requirement tags="attIntellect"/>
+<passive_effect name="PlayerExpGain" operation="perc_add" level="6,10" value="0.1,0.5"/>
+</effect_group>
+</append>
+</Claymore>

@@ -1,0 +1,26 @@
+<Claymore>
+<!-- DayNightLength: Now up to 6 hours. 360 is the max value for the game to work with -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsBasic']/grid/gameoption[@name='DayNightLength']/@values">10,20,30,40,50,60,90,120,180,240,300,360</set>
+<!-- DayLightLength: 0 = Everlasting night. 24 = Everlasting day -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsBasic']/grid/gameoption[@name='DayLightLength']/@values">0,6,12,14,16,18,24</set>
+<!-- XPMultiplier: Feeling like Goku -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsBasic']/grid/gameoption[@name='XPMultiplier']/@values">25,50,75,100,125,150,250,500,1000,2500,5000,10000</set>
+
+
+<!-- BlockDamageAI: From no damage to hold my beer -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BlockDamageAI']/@values">0,25,50,75,100,125,150,250,500,1000,2500,5000,10000</set>
+<!-- BlockDamageAIBM: From no damage to hold my beer in BloodMoon nights -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BlockDamageAIBM']/@values">0,25,50,75,100,125,150,250,500,1000,2500,5000,10000</set>
+<!-- goBlockDamagePlayer: Chuck Norries will be proud of you! -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BlockDamagePlayer']/@values">25,50,75,100,125,150,250,500,1000,2500,5000,10000</set>
+<!-- LootAbundance: More options to get your pockets filled -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='LootAbundance']/@values">25,50,75,100,125,150,250,500,1000,2500,5000,10000</set>
+<!-- BloodMoonEnemyCount: WARNING! NOT RECOMMENDED FOR POTATOMACHINES! Up to 128 enemies -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BloodMoonEnemyCount']/@values">4,6,8,10,12,16,24,32,64,128</set>
+<!-- AirDropFrequency: Value = Ingame hours -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='AirDropFrequency']/@values">0,24,72,168,336,720</set>
+
+
+<!-- PartySharedKillRange: If you're in a party, you should be able to share over the whole map -->
+<set xpath="/windows/window[@name='newContinueGame']/rect/rect/rect[@tab_key='xuiGameSettingsMultiplayer']/grid/gameoption[@name='PartySharedKillRange']/@values">0,6,12,24,72,168,336,720,4096,8192</set>
+</Claymore>

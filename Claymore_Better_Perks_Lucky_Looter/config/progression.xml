@@ -1,0 +1,7 @@
+<Claymore>
+// Lucky Looter Revamped
+<append xpath="/progression/perks/perk[@name='perkLuckyLooter']/effect_group">
+<passive_effect name="LootDropProb" operation="perc_add" level="1,5" value="6.67,33.33"/>
+<passive_effect name="LootQuantity" operation="perc_add" level="2,5" value="1,4"/>
+</append>
+</Claymore>

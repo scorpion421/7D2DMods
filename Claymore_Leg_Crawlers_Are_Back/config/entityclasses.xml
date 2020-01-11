@@ -1,0 +1,3 @@
+<Claymore>
+<set xpath="/entity_classes/entity_class[@name='zombieTemplateMale']/property[@name='LegCrawlerThreshold']/@value">0.175</set>
+</Claymore>

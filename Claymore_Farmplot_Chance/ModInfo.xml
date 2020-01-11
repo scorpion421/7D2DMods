@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Farmplot Chance" />
+		<Description value="This gives a chance of 35 percent to harvest a POI farmplot. It also removes any resources you get from the POI farm plots, if you harvest them, like Clay and Nitrate" />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

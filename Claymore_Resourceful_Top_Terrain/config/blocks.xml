@@ -1,0 +1,34 @@
+<Claymore>
+<append xpath="/blocks/block[@name='terrDirt']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrForestGround']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrBurntForestGround']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrDesertGround']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrSand']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrSnow']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrTopSoil']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+<append xpath="/blocks/block[@name='terrGravel']">
+<drop event="Harvest" name="foodRottingFlesh" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+<drop event="Harvest" name="resourceBone" count="1,3" prob="0.1" tag="oreWoodHarvest"/>
+</append>
+</Claymore>

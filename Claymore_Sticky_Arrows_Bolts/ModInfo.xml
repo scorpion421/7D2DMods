@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="100 percent sticky arrows and bolts" />
+		<Description value="Makes all arrows and bolts sticky at 100 percent - except exploding variants." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

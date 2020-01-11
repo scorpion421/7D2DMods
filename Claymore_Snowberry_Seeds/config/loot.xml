@@ -1,0 +1,5 @@
+<Claymore>
+<append xpath="/lootcontainers/lootgroup[@name='farmingCookingRecipes']">
+<item name="seedSnowBerrySchematic"/>
+</append>
+</Claymore>

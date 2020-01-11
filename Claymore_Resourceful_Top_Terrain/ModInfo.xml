@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Resourceful Top Terrain" />
+		<Description value="If you harvest dirt, sand, snow, etc. - like the top terrain, now you have a small chance to get rotting flesh and bones out of it too." />
+		<Author value="Claymore" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
